@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="control_background">#cc4285f4</color>
+    <color name="text">#454F63</color>
+    <color name="text_head">#959dad</color>
+    <color name="hr">#F4F4F6</color>
+    <color name="listview_activity_bg_color">#F8F8F8</color>
+    <color name="white">#ffffff</color>
+    <color name="delete_red">#c4134b</color>
+</resources>
